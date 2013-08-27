@@ -17,6 +17,6 @@ public class Normalizer {
         // TODO code application logic here
         System.out.println("Ciao Valerio");
         System.out.print("siniscalchi");
-        System.out.println("Vai Faraone!");
+        System.out.println("Vai Faraone!!");
     }
 }
